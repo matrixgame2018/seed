@@ -65,5 +65,3 @@ python train.py
 python infer.py
 ```
 infer里面use_demo=True,可以可视化一张预测图片，若为False,则为生成提交结果
-
-### 加油！！！！！！！！！
